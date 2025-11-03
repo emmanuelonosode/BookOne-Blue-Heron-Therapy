@@ -23,3 +23,8 @@ export interface FaqItem {
     question: string;
     answer: string;
 }
+
+export interface ChatMessage {
+  role: 'user' | 'model';
+  text: string;
+}

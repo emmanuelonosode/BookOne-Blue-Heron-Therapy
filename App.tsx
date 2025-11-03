@@ -14,6 +14,7 @@ import SpecialtiesSection from './components/SpecialtiesSection';
 import FeesInsuranceSection from './components/FeesInsuranceSection';
 import FaqSection from './components/FaqSection';
 import GoodFaithEstimateSection from './components/GoodFaithEstimateSection';
+import Chatbot from './components/Chatbot';
 
 const App: React.FC = () => {
   return (
@@ -34,6 +35,7 @@ const App: React.FC = () => {
         <GoodFaithEstimateSection />
       </main>
       <Footer />
+      <Chatbot />
     </div>
   );
 };

@@ -8,7 +8,7 @@ const IntroSection: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="md:w-1/2 lg:w-2/5">
             <img 
-              src="https://images.squarespace-cdn.com/content/v1/633722f464016b39a3f5c2f3/96c813a1-f762-436f-b251-1d5ac9188095/Headshot.jpg"
+              src="https://static.wixstatic.com/media/cdf4b4_87533f4c2db84e0fa8b1c260d459726d~mv2.png/v1/fill/w_435,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/26c8ae06-a249-4e3c-af12-199241b704d6_edited.png"
               alt="Sarah McKinley, a friendly and professional therapist" 
               className="rounded-lg shadow-2xl object-cover w-full h-auto aspect-[4/5]"
             />
